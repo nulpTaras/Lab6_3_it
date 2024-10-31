@@ -1,0 +1,18 @@
+# ninja log v6
+1	1364	1730344302959750985	CMakeFiles/Lab6_3_it.dir/src/main.cpp.o	a230ade13d8c6205
+1372	1494	1730344304331015134	Lab6_3_it	d63b1f83f8f51e71
+10	1264	1730344344610725733	CMakeFiles/Lab6_3_it.dir/src/main.cpp.o	a230ade13d8c6205
+1264	1357	1730344345864716254	Lab6_3_it	d63b1f83f8f51e71
+9	1225	1730344352166677182	CMakeFiles/Lab6_3_it.dir/src/main.cpp.o	a230ade13d8c6205
+1226	1316	1730344353383097778	Lab6_3_it	d63b1f83f8f51e71
+6	111	1730344501326885905	CMakeFiles/MyTests.dir/tests/testfile.cpp.o	6f96909eecb4b48f
+6	1523	1730344501326314361	CMakeFiles/MyLibrary.dir/src/functions.cpp.o	3a7ea1243a3ebd9b
+6	1525	1730344501326059740	CMakeFiles/MyLibrary.dir/src/main.cpp.o	f4611206a74e1e7
+1526	1680	1730344502846059409	libMyLibrary.a	d9b64a8ffc32c6f8
+6	1995	1730344501326564780	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	18aa57cfa5cd2a73
+4	4435	1730344501324857286	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	5e9bfe15f7d4f0f8
+4436	4596	1730344505756426590	lib/libgtestd.a	a8cb4fff94c38c42
+4596	4709	1730344505915958569	lib/libgtest_maind.a	10b76d6713bc2055
+4709	4809	1730344506028993760	MyTests	dc24996e5a615d7a
+44	1899	1730344627881457826	CMakeFiles/MyTests.dir/tests/testfile.cpp.o	6f96909eecb4b48f
+1899	2011	1730344629736653903	MyTests	dc24996e5a615d7a
